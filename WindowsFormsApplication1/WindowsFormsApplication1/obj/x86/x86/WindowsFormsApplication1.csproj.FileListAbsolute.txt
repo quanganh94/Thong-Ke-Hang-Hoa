@@ -1,0 +1,31 @@
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form1.resources
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.exe.config
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.exe
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.pdb
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\PhieuThanhToan.exe
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\PhieuThanhToan.pdb
+C:\Users\ZoZy\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form_update.resources
+C:\Users\ZoZy\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.main.resources
+C:\Users\ZoZy\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.thongke.resources
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\Data\Data.mdb
+C:\Users\ZoZy\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form_edit.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\PhieuThanhToan.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\PhieuThanhToan.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form_edit.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Form_update.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.main.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.thongke.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\Data\Data.mdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\x86\PhieuThanhToan.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\x86\WindowsFormsApplication1.Print.resources
